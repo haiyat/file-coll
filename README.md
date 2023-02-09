@@ -1,2 +1,0 @@
-# file-clone
-File coling
